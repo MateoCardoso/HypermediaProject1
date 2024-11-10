@@ -13,7 +13,7 @@ Las secciones se distribuyen en el siguiente orden: Sobre mí, Contacto, Lenguaj
 
 ## Project analysis, Visual design
 
-En el diseño visual de la página, tomé decisiones enfocadas en lograr un estilo limpio y fácil de leer. Usé una paleta de colores claros, donde el blanco es el color principal del fondo, acompañado de tonos verdes (#4CAF50) y grises. El verde funciona como color de acento, resaltando títulos, enlaces y barras de progreso para dar un toque visual sin ser demasiado llamativo. Este color también ayuda a guiar la atención del usuario hacia las secciones clave, facilitando la lectura y navegación.
+En el diseño visual de la página, tomé decisiones enfocadas en lograr un estilo limpio y fácil de leer. Usé una paleta de colores claros, donde el blanco es el color principal del fondo, acompañado de tonos verdes y grises. El verde funciona como color de acento, resaltando títulos, enlaces y barras de progreso para dar un toque visual sin ser demasiado llamativo. Este color también ayuda a guiar la atención del usuario hacia las secciones clave, facilitando la lectura y navegación.
 
 Para la tipografía, seleccioné una fuente sans-serif (Arial), que es simple y profesional, asegurando que el texto sea claro y fácil de leer en dispositivos de cualquier tamaño. Además, mantuve una estructura de diseño centrada y minimalista. Esto permite que el contenido se organice de manera intuitiva, haciendo que la información sea rápida de escanear sin distracciones innecesarias.
 
