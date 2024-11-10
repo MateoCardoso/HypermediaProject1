@@ -1,6 +1,6 @@
 # HypermediaProject1
 
-Project analysis, User profile:
+# Project analysis, User profile:
 
 Reclutadores o gerentes de contratación en desarrollo de aplicaciones y videojuegos, así como posibles colaboradores en proyectos académicos o personales.
 Buscan candidatos con habilidades técnicas relevantes, experiencia práctica, y una pasión demostrada por el desarrollo.
