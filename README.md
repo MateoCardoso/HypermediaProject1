@@ -18,3 +18,7 @@ En el diseño visual de la página, tomé decisiones enfocadas en lograr un esti
 Para la tipografía, seleccioné una fuente sans-serif (Arial), que es simple y profesional, asegurando que el texto sea claro y fácil de leer en dispositivos de cualquier tamaño. Además, mantuve una estructura de diseño centrada y minimalista. Esto permite que el contenido se organice de manera intuitiva, haciendo que la información sea rápida de escanear sin distracciones innecesarias.
 
 Otro elemento importante son las barras de progreso en la sección de lenguajes de programación. Estas barras ofrecen una representación visual simple para que los reclutadores puedan ver de inmediato el nivel de habilidad en cada lenguaje. En general, busqué que el diseño sea intuitivo y accesible, transmitiendo una imagen cuidada del perfil del estudiante.
+
+## Link
+
+**Public link to page:** [mateocardoso.github.io](https://mateocardoso.github.io/)
